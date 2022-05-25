@@ -15,5 +15,5 @@
 homepage: "https://www.peaksandpies.com"
 documentation: "https://github.com/peaksandpies/gtm-facebook-capi-client#readme"
 versions:
-  - sha: b6336b92c2508a0971f8a704c6b76bc45244597a
+  - sha: 1189e20b86b3ff5c3feed50bd0c35fa0905a420f
     changeNotes: Initial version
